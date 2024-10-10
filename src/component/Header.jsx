@@ -3,7 +3,7 @@ import { useSelector } from "react-redux";
 import { useNavigate } from "react-router-dom";
 import LogoutBtn from "./LogoutBtn";
 import Logo from "./Logo";
-import Container from "./container";
+import Container from "./Container";
 import { Link } from "react-router-dom";
 
 function Header() {
